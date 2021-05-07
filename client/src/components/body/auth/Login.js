@@ -110,13 +110,13 @@ function Login() {
 
             <div className="social">
                 <GoogleLogin
-                    clientId="1088997332487-mtfufb3ce3466c11nb2ojne9ruelfo8f.apps.googleusercontent.com"
+                    clientId="add-your-client-ID"
                     buttonText="Login with Google"
                     onSuccess={responseGoogle}
                     cookiePolicy={'single_host_origin'}
                 />
                 <FacebookLogin
-                    appId="514409583303320"
+                    appId="add-your-app-ID"
                     autoLoad={false}
                     fields="name,email,picture"
                     callback={responseFacebook} 
