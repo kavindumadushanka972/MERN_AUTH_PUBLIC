@@ -32,3 +32,8 @@
 ### `npm run client`
 
 ### Server runs on http://localhost:5000 and client on http://localhost:3000
+
+
+<img src="https://github.com/kavindumadushanka972/MERN_AUTH_PUBLIC/blob/master/5.PNG">
+<img src="https://github.com/kavindumadushanka972/MERN_AUTH_PUBLIC/blob/master/6.PNG">
+<img src="https://github.com/kavindumadushanka972/MERN_AUTH_PUBLIC/blob/master/7.PNG">
